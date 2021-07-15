@@ -3,8 +3,6 @@ A manually pumped back sprayer converted to automatic pumping, powered by a tool
 
 <img src="image1.jpg" width="400"><img src="image2.jpg" width="400">
 <img src="image3.jpg" width="400"><img src="image4.jpg" width="400">
-<img src="circuit.png">
-<img src="pulse_circuit.png">
 
 ## How it works
 A Milwaukee M18 5AH tool battery is pushed into a steel mount, with a connector leading 18VDC to a step down buck converter
