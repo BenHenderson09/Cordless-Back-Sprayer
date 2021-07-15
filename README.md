@@ -11,4 +11,5 @@ lance connected to the outlet.
 
 All components are fitted inside a plastic box, with hinges and a latch. A waterproof switch is also fitted
 through the side of the box. Two lengths of flat bar aluminium with standoffs are bolted on the back of the box,
-with a ratchet strap fixing the box to the sprayer.
+with a ratchet strap fixing the box to the sprayer. A low voltage protection module stops the pump when the battery
+needs charged.
